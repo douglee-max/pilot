@@ -1,18 +1,17 @@
-# Shot #03: Expertise - The Proven Success
+# Shot #03: Action - Surgical Precision
 
 ### 🎬 Scene Description
-[Location: LG CNS Project War Room (Cut-Over Night)]
-**"추상적인 이미지가 아닌, 치열한 프로젝트 현장의 '성공 순간'을 담아냅니다."**
-대규모 차세대 시스템 오픈 당일(Cut-Over)의 긴장된 프로젝트 룸상황실. 벽면의 화이트보드엔 복잡한 아키텍처 도면과 체크리스트가 가득합니다.
-김현우 전문가가 팔짱을 끼고 메인 대시보드를 응시하다가, 정확한 타이밍에 고개를 끄덕이며 '시스템 오픈(Go-Live)' 신호를 보냅니다.
-주변의 팀원들이 안도하며 박수를 치거나 환호하는 모습이 배경에 흐릿하게 잡히며, 20년간 축적된 그의 '현장 경험'과 '리더십'을 강조합니다.
+[Location: Expert's Workstation]
+**"먼저 문제를 '해결(Action)'하는 과정을 보여줍니다."**
+전문가의 책상 위, 듀얼 모니터 화면. 한쪽 화면에는 IDE(통합 개발 환경)의 코드 라인들이 빠르게 스크롤되고, 다른 화면에는 APM(애플리케이션 성능 모니터링) 대시보드가 보입니다.
+붉은색의 높은 Latency 그래프가 전문가의 튜닝 직후 급격히 하강하며 녹색의 안정적인 상태로 변합니다(Drop). 김현우가 동료와 눈을 마주치며 짧게 고개를 끄덕입니다.
 
 ### 📋 Visual Prompt (Copy & Paste)
 
 ```text
-Cinematic medium shot of the 45-year-old expert (Kim Hyun-woo) in a busy Project War Room at night. Background is filled with whiteboards covered in diagrams and team members focused on screens. He looks at a digital wall clock, then gives a calm, decisive "Go" signal with his hand. The reflection of green "SYSTEM STABLE" lights illuminates his face. He smiles with the confidence of a veteran.
+Over-the-shoulder shot of an expert working at a high-end workstation with dual monitors. Screen 1: Complex code scrolling rapidly in a dark-themed IDE. Screen 2: A real-time APM dashboard showing a jagged red latency graph suddenly dropping to a flat, stable green line. The expert (Kim Hyun-woo) turns slightly to nod at a colleague with a confident smile.
 
-Style: Realistic documentary style, warm office lighting mixed with cool monitor glow. Palette: Office White, Monitor Blue, Signal Green.
+Style: Realistic tech environment, macro details of screen pixels, depth of field focusing on the graph. Palette: Matrix green, alert red, dark gray.
 ```
 
 ### 🎨 Master Style (Copy & Paste to Prompt)
@@ -33,5 +32,5 @@ A highly detailed, professional portrait of a 45-year-old Asian male IT expert. 
 ---
 
 ### 💡 연출 가이드
-- **현장감(Reality)**: 너무 깨끗한 미래 공간보다는, 서류와 노트북이 놓인 '실제 일하는 공간'의 디테일을 살려주세요.
-- **조명**: 밤샘 작업의 느낌을 주기 위해 약간 어두운 실내에 모니터 불빛이 얼굴을 비추는 연출(Rembrandt lighting via screens)이 효과적입니다.
+- **순서 변경**: [진단/해결] -> [성공/오픈] 순서로 변경되었습니다.
+- **디테일**: 키보드를 두드리는 손가락의 움직임이나, 화면 속 코드가 수정되는 찰나의 순간을 포착하여 '기술적 해결'을 시각화하세요.
