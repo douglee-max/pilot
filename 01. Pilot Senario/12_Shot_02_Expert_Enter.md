@@ -10,7 +10,7 @@ LG CNS 마곡 본사의 최첨단 스마트 워룸. 투명한 OLED 글래스 월
 ### 📋 Visual Prompt (Copy & Paste)
 
 ```text
-Medium close-up shot of a 45-year-old Asian male expert (Kim Hyun-woo) in a sleek suit, standing behind a transparent OLED glass wall. On the glass, a complex 3D network topology map is displayed in holographic blue. One specific node in the center is glowing pulsing RED (indicating a bottleneck). The expert looks intense and intelligent as he points his finger directly at the red node, analyzing it. 
+Medium close-up shot of a 45-year-old Asian male expert in a sleek suit, standing behind a transparent OLED glass wall. On the glass, a complex 3D network topology map is displayed in holographic blue. One specific node in the center is glowing pulsing RED (indicating a bottleneck). The expert looks intense and intelligent as he points his finger directly at the red node, analyzing it. 
 
 Style: Cyberpunk corporate, high-tech interface (UI/UX), depth of field focus on the expert's eyes and the red node. Palette: Electric Blue, Warning Red, dark suit charcoal.
 ```

@@ -7,7 +7,7 @@ LG CNS 마곡 사옥의 웅장한 아트리움. 높은 천장에서 자연광이
 ### 📋 Visual Prompt (Copy & Paste)
 
 ```text
-Low-angle full shot of the expert (Kim Hyun-woo) walking confidently through the wide, sunlit main atrium of LG CNS Magok HQ. Modern glass architecture, bright natural light, polished white floors reflecting the sky. He looks into the camera with a "trust-me" expression. 
+Low-angle full shot of the expert walking confidently through a wide, sunlit main atrium of a futuristic high-tech corporate headquarters. Modern glass architecture, bright natural light, polished white floors reflecting the sky. He looks into the camera with a confident, trustworthy expression.
 
 Style: High-key lighting, corporate premium, architectural beauty. Palette: Clean white, sky blue, sunlight gold.
 ```

@@ -9,7 +9,7 @@
 ### 📋 Visual Prompt (Copy & Paste)
 
 ```text
-Over-the-shoulder shot of an expert working at a high-end workstation with dual monitors. Screen 1: Complex code scrolling rapidly in a dark-themed IDE. Screen 2: A real-time APM dashboard showing a jagged red latency graph suddenly dropping to a flat, stable green line. The expert (Kim Hyun-woo) turns slightly to nod at a colleague with a confident smile.
+Over-the-shoulder shot of an expert working at a high-end workstation with dual monitors. Screen 1: Complex code scrolling rapidly in a dark-themed IDE. Screen 2: A real-time APM dashboard showing a jagged red latency graph suddenly dropping to a flat, stable green line. The expert turns slightly to nod at a colleague with a confident smile.
 
 Style: Realistic tech environment, macro details of screen pixels, depth of field focusing on the graph. Palette: Matrix green, alert red, dark gray.
 ```
