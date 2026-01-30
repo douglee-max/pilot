@@ -15,6 +15,15 @@ Cinematic wide shot of a futuristic Integrated Control Center (ICC). A massive w
 Style: High-stakes thriller movie, slightly tilted dutch angle to induce tension, 4k. Palette: Urgent Red, warning Orange, contrast with dark office background.
 ```
 
+### 🎨 Master Style (Copy & Paste to Prompt)
+
+```text
+Style: Cinematic 4k, professional film color grading, soft volumetric lighting. 
+Film: Shot on 35mm lens, shallow depth of field, subtle film grain. 
+Palette: Sophisticated midnight blue, silver, and warm charcoal gray. 
+Environment: Minimalist high-tech corporate office, clean glass backgrounds, subtle holographic data overlays.
+```
+
 ---
 
 ### 💡 연출 가이드

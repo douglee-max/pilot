@@ -12,6 +12,21 @@ Double exposure shot. Background: A mesmerizing 3D animation of a heavy, solid m
 Style: Abstract data art, ethereal, 4k. Palette: Glowing gold and cyan particles against deep space blue. Mood: Transformation, Evolution, Mastery.
 ```
 
+### 🎨 Master Style (Copy & Paste to Prompt)
+
+```text
+Style: Cinematic 4k, professional film color grading, soft volumetric lighting. 
+Film: Shot on 35mm lens, shallow depth of field, subtle film grain. 
+Palette: Sophisticated midnight blue, silver, and warm charcoal gray. 
+Environment: Minimalist high-tech corporate office, clean glass backgrounds, subtle holographic data overlays.
+```
+
+### 🧑‍💼 Character Reference (Copy & Paste to Prompt)
+
+```text
+A highly detailed, professional portrait of a 45-year-old Asian male IT expert. He has a gentle yet sharp and intelligent face, exuding deep expertise and trustworthiness. He has short, styled black hair with subtle salt-and-pepper touches at the temples. He is wearing sophisticated brown tortoise-shell glasses, a dark charcoal textured wool turtleneck, and a structured midnight blue blazer. He is standing in a minimalist modern tech office with soft daylight and glass backgrounds. 8k resolution, photorealistic, cinematic lighting, calm and confident expression.
+```
+
 ---
 
 ### 💡 연출 가이드
