@@ -2,14 +2,17 @@
 
 ### 🎬 Scene Description
 [Location: LG CNS Magok HQ, Smart War Room]
-LG CNS 마곡 본사의 최첨단 스마트 워룸. 주인공 김현우가 투명한 OLED 글래스 월 앞에 서 있습니다. 글래스 월에는 홀로그램 스타일의 3D 시스템 아키텍처 토폴로지가 복잡하게 떠 있습니다. 그는 날카로운 눈빛으로 데이터 흐름의 병목 구간을 손가락으로 가리키며 분석합니다. 배경에는 대형 관제 화면들이 희미하게 보입니다.
+**"단순히 보는 것이 아니라, '핵심 문제'를 찾아내는 전문가의 통찰력을 시각화합니다."**
+LG CNS 마곡 본사의 최첨단 스마트 워룸. 투명한 OLED 글래스 월에 수천 개의 마이크로서비스 노드가 파란색으로 연결된 **거대하고 복잡한 3D 토폴로지 맵**이 떠 있습니다.
+그중 시스템의 속도를 저하시키는 **단 하나의 '병목 노드(Bottleneck Node)'가 붉은색으로 위험하게 맥박(Pulse)칩니다.**
+김현우가 날카로운 눈빛으로 그 붉은 점을 정확히 발견하고, 검지로 짚어 확대(Zoom-in)합니다. 혼란스러운 상황 속에서 '정답'을 찾아내는 전문가의 카리스마가 느껴져야 합니다.
 
 ### 📋 Visual Prompt (Copy & Paste)
 
 ```text
-Medium shot of a 45-year-old Asian male expert (Kim Hyun-woo) with intelligent eyes and rimless glasses, wearing a sleek dark suit. He is standing in a futuristic Smart War Room at LG CNS HQ. In front of him is a transparent OLED glass wall displaying a complex 3D system architecture topology in holographic blue and white lines. He is intensely analyzing a bottleneck node, pointing at it with precision.
+Medium close-up shot of a 45-year-old Asian male expert (Kim Hyun-woo) in a sleek suit, standing behind a transparent OLED glass wall. On the glass, a complex 3D network topology map is displayed in holographic blue. One specific node in the center is glowing pulsing RED (indicating a bottleneck). The expert looks intense and intelligent as he points his finger directly at the red node, analyzing it. 
 
-Style: Future-tech corporate, 4k, sharp focus. Palette: Holographic blue, clean white, slate gray. Lighting: Screen reflection on face, modern office ambient light.
+Style: Cyberpunk corporate, high-tech interface (UI/UX), depth of field focus on the expert's eyes and the red node. Palette: Electric Blue, Warning Red, dark suit charcoal.
 ```
 
 ---
