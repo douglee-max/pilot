@@ -1,14 +1,15 @@
 # Shot #04: Action - Surgical Precision
 
 ### 🎬 Scene Description
-여러 대의 모니터가 설치된 상황실 분위기. 주인공이 팀원들과 함께 모니터를 보며 대화합니다. 모니터에는 시스템 부하 그래프가 표시되어 있으며, 그의 지시 한마디에 폭주하던 그래프가 안정적인 수평선으로 바뀝니다. 그는 안경을 살짝 치켜올리며 만족감을 표시합니다.
+[Location: Expert's Workstation]
+전문가의 책상 위, 듀얼 모니터 화면. 한쪽 화면에는 IDE(통합 개발 환경)의 코드 라인들이 빠르게 스크롤되고, 다른 화면에는 APM(애플리케이션 성능 모니터링) 대시보드가 보입니다. 붉은색의 높은 Latency 그래프가 전문가의 튜닝 직후 급격히 하강하며 녹색의 안정적인 상태로 변합니다(Drop). 김현우가 동료와 눈을 마주치며 짧게 고개를 끄덕입니다.
 
 ### 📋 Visual Prompt (Copy & Paste)
 
 ```text
-A 45-year-old Asian male expert in a dark turtleneck and blue blazer in a tech command center. He is looking at a high-res monitor showing chaotic red graphs turning into stable green lines. He gives a brief, professional nod to his team (out of focus in the background). He subtly adjusts his brown tortoise-shell glasses with his index finger, looking satisfied.
+Over-the-shoulder shot of an expert working at a high-end workstation with dual monitors. Screen 1: Complex code scrolling rapidly in a dark-themed IDE. Screen 2: A real-time APM dashboard showing a jagged red latency graph suddenly dropping to a flat, stable green line. The expert (Kim Hyun-woo) turns slightly to nod at a colleague with a confident smile.
 
-Style: Cinematic 4k, professional film color grading, soft volumetric lighting. Film: Shot on 35mm lens, shallow depth of field, subtle film grain. Palette: Dominant professional blue, contrast of red and green graphs.
+Style: Realistic tech environment, macro details of screen pixels, depth of field focusing on the graph. Palette: Matrix green, alert red, dark gray.
 ```
 
 ---

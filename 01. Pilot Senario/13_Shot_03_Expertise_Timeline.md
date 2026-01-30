@@ -1,14 +1,15 @@
 # Shot #03: Expertise - 20 Years of SWAT
 
 ### 🎬 Scene Description
-우리의 전문가 김현우의 옆모습이 화면 한쪽에 위치하고, 나머지 공간에는 지난 20년간의 기술 변천사(구형 서버에서 현대적인 클라우드까지)가 빛의 속도로 흐르는 모션 그래픽이 합성됩니다. 그는 이 모든 변화를 꿰뚫고 있는 듯한 확신에 찬 미소를 띠고 있습니다.
+[Location: Abstract Digital Twin Space]
+가상의 디지털 트윈 공간. 거대하고 둔탁한 모놀리식(Monolithic) 큐브 구조물이 수천 개의 유기적인 마이크로서비스(MSA) 입자로 쪼개지며 부드럽게 재구성되는 장면. 이 아름다운 변화를 배경으로 김현우의 확신에 찬 옆모습이 오버랩됩니다. 그의 시선은 기술의 진보를 바라보고 있습니다.
 
 ### 📋 Visual Prompt (Copy & Paste)
 
 ```text
-A profile shot of the 45-year-old Asian male expert (wearing brown glasses and navy blazer) looking towards the right. On the right side of the frame, a fast-moving montage of digital evolution—from old mainframe text streams to modern cloud neon network nodes—flows like a stream of light. He has a calm, confident, and seasoned smile. The lighting is warm and heroic.
+Double exposure shot. Background: A mesmerizing 3D animation of a heavy, solid monolith structure shattering into thousands of glowing data particles, which then elegantly reassemble into a fluid, interconnected network mesh (Microservices). Foreground: Profile close-up of the expert (Kim Hyun-woo) looking forward with a confident, visionary slight smile. 
 
-Style: Cinematic 4k, professional film color grading, soft volumetric lighting. Film: Shot on 35mm lens, shallow depth of field, subtle film grain. Palette: Golden warm light hitting his face, mixed with deep navy backgrounds.
+Style: Abstract data art, ethereal, 4k. Palette: Glowing gold and cyan particles against deep space blue. Mood: Transformation, Evolution, Mastery.
 ```
 
 ---

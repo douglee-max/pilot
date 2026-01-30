@@ -1,14 +1,15 @@
 # Shot #02: Expert Intro - The Solution
 
 ### 🎬 Scene Description
-우리 주인공(김현우)이 첫 등장합니다. 그는 지적인 갈색 뿔테 안경을 쓰고 있으며, 투명한 유리에 그려진 복잡한 시스템 다이어그램을 진지하게 들여다보고 있습니다. 그가 유리창 너머로 손을 뻗어 데이터 흐름을 짚어봅니다.
+[Location: LG CNS Magok HQ, Smart War Room]
+LG CNS 마곡 본사의 최첨단 스마트 워룸. 주인공 김현우가 투명한 OLED 글래스 월 앞에 서 있습니다. 글래스 월에는 홀로그램 스타일의 3D 시스템 아키텍처 토폴로지가 복잡하게 떠 있습니다. 그는 날카로운 눈빛으로 데이터 흐름의 병목 구간을 손가락으로 가리키며 분석합니다. 배경에는 대형 관제 화면들이 희미하게 보입니다.
 
 ### 📋 Visual Prompt (Copy & Paste)
 
 ```text
-Medium shot of a 45-year-old Asian male expert with salt-and-pepper hair, wearing brown tortoise-shell glasses and a dark charcoal turtleneck under a midnight blue blazer. He is analyzing a complex system architecture diagram drawn on a transparent glass board. He looks intelligent and focused. Soft holographic data overlays shimmer on the glass. He slowly points at a specific part of the diagram. 
+Medium shot of a 45-year-old Asian male expert (Kim Hyun-woo) with intelligent eyes and rimless glasses, wearing a sleek dark suit. He is standing in a futuristic Smart War Room at LG CNS HQ. In front of him is a transparent OLED glass wall displaying a complex 3D system architecture topology in holographic blue and white lines. He is intensely analyzing a bottleneck node, pointing at it with precision.
 
-Style: Cinematic 4k, professional film color grading, soft volumetric lighting. Film: Shot on 35mm lens, shallow depth of field, subtle film grain. Palette: Sophisticated midnight blue, silver, and warm charcoal gray. Environment: Minimalist high-tech corporate office.
+Style: Future-tech corporate, 4k, sharp focus. Palette: Holographic blue, clean white, slate gray. Lighting: Screen reflection on face, modern office ambient light.
 ```
 
 ---
